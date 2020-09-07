@@ -5,7 +5,7 @@ import alert from './alert';
 // import post from './post';
 
 export default combineReducers({
-  alert,
+  alert
 //   auth,
 //   profile,
 //   post
